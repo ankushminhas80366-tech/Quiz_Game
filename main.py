@@ -14,7 +14,9 @@ try:
             ["what is the capital of India?","Mumbai", "Kolkata","New Delhi","Chennai", 3],
             ["what is the national animal of India?", "Lion", "Tiger","Elephant", "Peacock", 2],
             ["what is the national bird of India?", "Sparrow", "Peacock", "Parrot", "Eagle", 2],
-            ["what is the national flower of India?", "Rose", "Lily", "Marigold","Lotus", 4]]
+            ["what is the national flower of India?", "Rose", "Lily", "Marigold","Lotus", 4],
+            ["How many colours present in our Flag", "2","3","4","7",3]
+            ["Python language used for what purpose","Coding","Editing","Filming","Nothing",1]]
         sum=0
         for question in questions:
             print(question[0])
