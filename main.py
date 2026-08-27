@@ -16,7 +16,9 @@ try:
             ["what is the national bird of India?", "Sparrow", "Peacock", "Parrot", "Eagle", 2],
             ["what is the national flower of India?", "Rose", "Lily", "Marigold","Lotus", 4],
             ["How many colours present in our Flag", "2","3","4","7",3]
-            ["Python language used for what purpose","Coding","Editing","Filming","Nothing",1]]
+            ["Python language used for what purpose","Coding","Editing","Filming","Nothing",1]
+            ["How many states in India","23","34","28","29",4]
+            ["Who is the CM of Punjab","Amit Shah","Narendra Modi","Bhagwant Maan","Rahul Gandhi",3]]
         sum=0
         for question in questions:
             print(question[0])
