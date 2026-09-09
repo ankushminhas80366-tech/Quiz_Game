@@ -15,10 +15,21 @@ try:
             ["what is the national animal of India?", "Lion", "Tiger","Elephant", "Peacock", 2],
             ["what is the national bird of India?", "Sparrow", "Peacock", "Parrot", "Eagle", 2],
             ["what is the national flower of India?", "Rose", "Lily", "Marigold","Lotus", 4],
-            ["How many colours present in our Flag", "2","3","4","7",3]
-            ["Python language used for what purpose","Coding","Editing","Filming","Nothing",1]
-            ["How many states in India","23","34","28","29",4]
-            ["Who is the CM of Punjab","Amit Shah","Narendra Modi","Bhagwant Maan","Rahul Gandhi",3]]
+            ["How many colours present in our Flag", "2","3","4","7",3],
+            ["Python language used for what purpose","Coding","Editing","Filming","Nothing",1],
+            ["How many states in India","23","34","28","29",4],
+            ["Who is the CM of Punjab","Amit Shah","Narendra Modi","Bhagwant Maan","Rahul Gandhi",3],
+            ["What is the currency of India?", "Dollar", "Rupee", "Euro", "Yen", 2],
+            ["Who wrote the Indian National Anthem?", "Rabindranath Tagore", "Bankim Chandra", "Mahatma Gandhi", "Subhash Chandra Bose", 1],
+            ["What is the national sport of India?", "Cricket", "Hockey", "Football", "Kabaddi", 2],
+            ["How many planets are there in our solar system?", "7", "8", "9", "10", 2],
+            ["What is the full form of CPU?", "Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Control Processing Unit", 1],
+            ["Which is the largest state in India by area?", "Maharashtra", "Rajasthan", "Madhya Pradesh", "Uttar Pradesh", 2],
+            ["Who is known as the Father of the Nation in India?", "Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel", "Bhagat Singh", 2],
+            ["What does HTML stand for?", "Hyper Text Markup Language", "High Tech Modern Language", "Hyper Transfer Markup Language", "Home Tool Markup Language", 1],
+            ["Which river is known as the Ganga of the South?", "Godavari", "Krishna", "Cauvery", "Narmada", 1],
+            ["In which year did India get independence?", "1945", "1947", "1950", "1942", 2],
+            ["What is the chemical symbol for water?", "H2O", "CO2", "O2", "NaCl", 1]]
         sum=0
         for question in questions:
             print(question[0])
